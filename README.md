@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)
 The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem with its own scripting language for custom package-based system management.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -38,7 +38,7 @@ The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [libultrahand](https://github.com/ppkantorski/libultrahand)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [libultrahand](https://github.com/ppkantorski/libultrahand)
 Expanded libtesla + libultra libraries for Switch overlay development. The foundational C++ library powering Ultrahand and all compatible overlays.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -54,7 +54,7 @@ Expanded libtesla + libultra libraries for Switch overlay development. The found
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader)
 Host process for loading Nintendo Switch overlay OVLs. The core loader service of the Ultrahand ecosystem, with dynamic heap sizing and auto-relaunch support.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -68,7 +68,7 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Ultrahand-Packages](https://github.com/ppkantorski/Ultrahand-Packages)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Ultrahand-Packages](https://github.com/ppkantorski/Ultrahand-Packages)
 A comprehensive collection of known Ultrahand Overlay packages — the central hub for discovering and sharing community-built packages for the ecosystem.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -89,7 +89,7 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay)
 A fully playable Tetris game running as a Nintendo Switch overlay — because why not play Tetris on top of your game?
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -103,7 +103,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay — because wh
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules)
 Toggle sysmodules and Tesla plugins on the fly — without ever rebooting your Switch.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -119,7 +119,7 @@ Toggle sysmodules and Tesla plugins on the fly — without ever rebooting your S
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay)
 Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more — all on-device.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -133,7 +133,7 @@ Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan spe
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [FPSLocker](https://github.com/ppkantorski/FPSLocker)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [FPSLocker](https://github.com/ppkantorski/FPSLocker)
 Set custom display refresh rates and FPS targets in Nintendo Switch retail games, with per-game patch configs and advanced buffering controls.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -149,7 +149,7 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Fizeau](https://github.com/ppkantorski/Fizeau)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [Fizeau](https://github.com/ppkantorski/Fizeau)
 Color management overlay for the Nintendo Switch. Adjust color temperature, saturation, hue, gamma, and contrast — with scheduled dusk/dawn transitions.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -163,7 +163,7 @@ Color management overlay for the Nintendo Switch. Adjust color temperature, satu
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="20" height="20" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [QuickNTP](https://github.com/ppkantorski/QuickNTP)
+### <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/repo-white.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1) opacity(0.75);"> [QuickNTP](https://github.com/ppkantorski/QuickNTP)
 Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultrahand overlay.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
