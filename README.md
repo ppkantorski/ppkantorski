@@ -180,6 +180,42 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 </tr>
 </table>
 
+
+---
+
+### ☆ Ultrahand Packages
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/ppkantorski/Alchemist"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Alchemist](https://github.com/ppkantorski/Alchemist)
+An Ultrahand package for managing, converting, and installing mods on the Nintendo Switch — with support for exeFS patches, content mods, and pchtxt conversion.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![latest](https://img.shields.io/github/v/release/ppkantorski/Alchemist?label=latest&color=blue)](https://github.com/ppkantorski/Alchemist/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/ppkantorski/Alchemist/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Alchemist)
+[![stars](https://img.shields.io/github/stars/ppkantorski/Alchemist)](https://github.com/ppkantorski/Alchemist/stargazers)
+[![issues](https://img.shields.io/github/issues/ppkantorski/Alchemist?color=222222)](https://github.com/ppkantorski/Alchemist/issues)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/ppkantorski/Memory-Kit"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Memory-Kit](https://github.com/ppkantorski/Memory-Kit)
+An Ultrahand package for manipulating various memory settings for Atmosphere and Ultrahand on the Nintendo Switch.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![latest](https://img.shields.io/github/v/release/ppkantorski/Memory-Kit?label=latest&color=blue)](https://github.com/ppkantorski/Memory-Kit/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/ppkantorski/Memory-Kit/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Memory-Kit)
+[![stars](https://img.shields.io/github/stars/ppkantorski/Memory-Kit)](https://github.com/ppkantorski/Memory-Kit/stargazers)
+[![issues](https://img.shields.io/github/issues/ppkantorski/Memory-Kit?color=222222)](https://github.com/ppkantorski/Memory-Kit/issues)
+<br/><br/>
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
