@@ -16,7 +16,7 @@
 
 ---
 
-## Nintendo Switch Homebrew
+## <img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/switch-white.svg" width="20" height="20"> Nintendo Switch Homebrew
 
 ### Ultrahand Ecosystem
 
