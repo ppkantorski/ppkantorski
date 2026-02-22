@@ -85,7 +85,7 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 
 ---
 
-### ☆ libultrahand Overlays
+### ☆ Ultrahand Overlays
 
 <table>
 <tr>
