@@ -34,7 +34,7 @@ The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem 
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/Ultrahand-Overlay/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Ultrahand-Overlay)
 [![stars](https://img.shields.io/github/stars/ppkantorski/Ultrahand-Overlay)](https://github.com/ppkantorski/Ultrahand-Overlay/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/Ultrahand-Overlay?color=222222)](https://github.com/ppkantorski/Ultrahand-Overlay/issues)
-
+<br/><br/>
 </td>
 <td width="50%" valign="top">
 
@@ -48,7 +48,7 @@ Expanded libtesla + libultra libraries for Switch overlay development. The found
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/libultrahand/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=libultrahand)
 [![stars](https://img.shields.io/github/stars/ppkantorski/libultrahand)](https://github.com/ppkantorski/libultrahand/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/libultrahand?color=222222)](https://github.com/ppkantorski/libultrahand/issues)
-
+<br/><br/>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/nx-ovlloader/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=nx-ovlloader)
 [![stars](https://img.shields.io/github/stars/ppkantorski/nx-ovlloader)](https://github.com/ppkantorski/nx-ovlloader/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/nx-ovlloader?color=222222)](https://github.com/ppkantorski/nx-ovlloader/issues)
-
+<br/><br/>
 </td>
 <td width="50%" valign="top">
 
@@ -76,7 +76,7 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 [![stars](https://img.shields.io/github/stars/ppkantorski/Ultrahand-Packages)](https://github.com/ppkantorski/Ultrahand-Packages/stargazers)
 [![forks](https://img.shields.io/github/forks/ppkantorski/Ultrahand-Packages?color=6f42c1)](https://github.com/ppkantorski/Ultrahand-Packages/forks)
 [![issues](https://img.shields.io/github/issues/ppkantorski/Ultrahand-Packages?color=222222)](https://github.com/ppkantorski/Ultrahand-Packages/issues)
-
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -99,7 +99,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay — because wh
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/Tetris-Overlay/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Tetris-Overlay)
 [![stars](https://img.shields.io/github/stars/ppkantorski/Tetris-Overlay)](https://github.com/ppkantorski/Tetris-Overlay/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/Tetris-Overlay?color=222222)](https://github.com/ppkantorski/Tetris-Overlay/issues)
-
+<br/><br/>
 </td>
 <td width="50%" valign="top">
 
@@ -113,7 +113,7 @@ Toggle sysmodules and Tesla plugins on the fly — without ever rebooting your S
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/ovl-sysmodules/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=ovl-sysmodules)
 [![stars](https://img.shields.io/github/stars/ppkantorski/ovl-sysmodules)](https://github.com/ppkantorski/ovl-sysmodules/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/ovl-sysmodules?color=222222)](https://github.com/ppkantorski/ovl-sysmodules/issues)
-
+<br/><br/>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan spe
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/Status-Monitor-Overlay/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Status-Monitor-Overlay)
 [![stars](https://img.shields.io/github/stars/ppkantorski/Status-Monitor-Overlay)](https://github.com/ppkantorski/Status-Monitor-Overlay/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/Status-Monitor-Overlay?color=222222)](https://github.com/ppkantorski/Status-Monitor-Overlay/issues)
-
+<br/><br/>
 </td>
 <td width="50%" valign="top">
 
@@ -143,7 +143,7 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/FPSLocker/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=FPSLocker)
 [![stars](https://img.shields.io/github/stars/ppkantorski/FPSLocker)](https://github.com/ppkantorski/FPSLocker/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/FPSLocker?color=222222)](https://github.com/ppkantorski/FPSLocker/issues)
-
+<br/><br/>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ Color management overlay for the Nintendo Switch. Adjust color temperature, satu
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/Fizeau/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Fizeau)
 [![stars](https://img.shields.io/github/stars/ppkantorski/Fizeau)](https://github.com/ppkantorski/Fizeau/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/Fizeau?color=222222)](https://github.com/ppkantorski/Fizeau/issues)
-
+<br/><br/>
 </td>
 <td width="50%" valign="top">
 
@@ -173,7 +173,7 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/QuickNTP/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=QuickNTP)
 [![stars](https://img.shields.io/github/stars/ppkantorski/QuickNTP)](https://github.com/ppkantorski/QuickNTP/stargazers)
 [![issues](https://img.shields.io/github/issues/ppkantorski/QuickNTP?color=222222)](https://github.com/ppkantorski/QuickNTP/issues)
-
+<br/><br/>
 </td>
 </tr>
 </table>
