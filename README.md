@@ -18,7 +18,7 @@
 
 ## <a href="https://github.com/ppkantorski?tab=repositories"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/switch-white.svg" width="18" height="18"></a> Nintendo Switch Homebrew
 
-### Ultrahand Ecosystem
+### ☆ Ultrahand Ecosystem
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 
 ---
 
-### libultrahand Overlays
+### ☆ libultrahand Overlays
 
 <table>
 <tr>
