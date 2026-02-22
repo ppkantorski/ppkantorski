@@ -10,7 +10,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Embedded_Systems-21262d?style=flat&logo=arm&logoColor=white)
+![DSP](https://img.shields.io/badge/Signal_Processing-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/AI-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 </div>
 
