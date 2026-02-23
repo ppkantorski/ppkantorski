@@ -6,15 +6,15 @@
 
 <br/>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-21262d?style=flat&logo=arm&logoColor=white)
-![Systems Design](https://img.shields.io/badge/Systems_Design-0d1117?style=flat&logo=dependabot&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-00C1DE?style=flat&logo=arm&logoColor=white)
+![Systems Design](https://img.shields.io/badge/Systems_Design-025E8C?style=flat&logo=dependabot&logoColor=white)
 ![DSP](https://img.shields.io/badge/Signal_Processing-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=flat&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-A259FF?style=flat&logo=figma&logoColor=white)
 
 </div>
 
