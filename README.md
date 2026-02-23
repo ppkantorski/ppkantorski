@@ -75,7 +75,6 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![forks](https://img.shields.io/github/forks/ppkantorski/Ultrahand-Packages?color=6f42c1)](https://github.com/ppkantorski/Ultrahand-Packages/forks)
 [![issues](https://img.shields.io/github/issues/ppkantorski/Ultrahand-Packages?color=222222)](https://github.com/ppkantorski/Ultrahand-Packages/issues)
 [![stars](https://img.shields.io/github/stars/ppkantorski/Ultrahand-Packages)](https://github.com/ppkantorski/Ultrahand-Packages/stargazers)
 <br/><br/>
