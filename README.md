@@ -18,7 +18,7 @@
 
 ---
 
-## <a href="https://github.com/ppkantorski?tab=repositories"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/switch-white.svg" width="18" height="18"></a> Nintendo Switch Homebrew
+## <a href="https://github.com/ppkantorski#-Nintendo-Switch-Homebrew"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/switch-white.svg" width="18" height="18"></a> Nintendo Switch Homebrew
 
 ### ☆ Ultrahand Ecosystem
 
