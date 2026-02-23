@@ -7,15 +7,15 @@
 
 <br/>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-00C1DE?style=flat&logo=arm&logoColor=white)
-![Systems Design](https://img.shields.io/badge/Systems_Design-025E8C?style=flat&logo=dependabot&logoColor=white)
-![DSP](https://img.shields.io/badge/Signal_Processing-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/AI-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-A259FF?style=flat&logo=figma&logoColor=white)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://github.com/topics/c)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://github.com/topics/cpp)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/topics/python)
+[![Embedded](https://img.shields.io/badge/Embedded_Systems-00C1DE?style=flat&logo=arm&logoColor=white)](https://github.com/topics/embedded-systems)
+[![Systems Design](https://img.shields.io/badge/Systems_Design-025E8C?style=flat&logo=dependabot&logoColor=white)](https://github.com/topics/system-design)
+[![DSP](https://img.shields.io/badge/Signal_Processing-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://github.com/topics/signal-processing)
+[![ML](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/topics/machine-learning)
+[![AI](https://img.shields.io/badge/AI-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/topics/artificial-intelligence)
+[![UI/UX](https://img.shields.io/badge/UI%2FUX-A259FF?style=flat&logo=figma&logoColor=white)](https://github.com/topics/ui-ux-design)
 
 </div>
 
