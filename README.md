@@ -26,7 +26,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Ultrahand-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)
+### <a href="https://github.com/ppkantorski/Ultrahand-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)
 The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem with its own scripting language for custom package-based system management.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -40,7 +40,7 @@ The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/libultrahand"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [libultrahand](https://github.com/ppkantorski/libultrahand)
+### <a href="https://github.com/ppkantorski/libultrahand"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [libultrahand](https://github.com/ppkantorski/libultrahand)
 Expanded libtesla + libultra libraries for Switch overlay development. The foundational C++ library powering Ultrahand and all compatible overlays.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -56,7 +56,7 @@ Expanded libtesla + libultra libraries for Switch overlay development. The found
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/nx-ovlloader"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader)
+### <a href="https://github.com/ppkantorski/nx-ovlloader"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader)
 Host process for loading Nintendo Switch overlay OVLs. The core loader service of the Ultrahand ecosystem, with dynamic heap sizing and auto-relaunch support.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -70,7 +70,7 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Ultrahand-Packages"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Packages](https://github.com/ppkantorski/Ultrahand-Packages)
+### <a href="https://github.com/ppkantorski/Ultrahand-Packages"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Packages](https://github.com/ppkantorski/Ultrahand-Packages)
 A comprehensive collection of known Ultrahand Overlay packages — the central hub for discovering and sharing community-built packages for the ecosystem.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -91,7 +91,7 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Tetris-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay)
+### <a href="https://github.com/ppkantorski/Tetris-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay)
 A fully playable Tetris game running as a Nintendo Switch overlay — because why not play Tetris on top of your game?
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -105,7 +105,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay — because wh
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules)
+### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules)
 Toggle sysmodules and Tesla plugins on the fly — without ever rebooting your Switch.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -121,7 +121,7 @@ Toggle sysmodules and Tesla plugins on the fly — without ever rebooting your S
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Status-Monitor-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay)
+### <a href="https://github.com/ppkantorski/Status-Monitor-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay)
 Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more — all on-device.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -135,7 +135,7 @@ Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan spe
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/FPSLocker"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [FPSLocker](https://github.com/ppkantorski/FPSLocker)
+### <a href="https://github.com/ppkantorski/FPSLocker"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [FPSLocker](https://github.com/ppkantorski/FPSLocker)
 Set custom display refresh rates and FPS targets in Nintendo Switch retail games, with per-game patch configs and advanced buffering controls.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -151,7 +151,7 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau)
+### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau)
 Color management overlay for the Nintendo Switch. Adjust color temperature, saturation, hue, gamma, and contrast — with scheduled dusk/dawn transitions.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -165,7 +165,7 @@ Color management overlay for the Nintendo Switch. Adjust color temperature, satu
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/QuickNTP"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [QuickNTP](https://github.com/ppkantorski/QuickNTP)
+### <a href="https://github.com/ppkantorski/QuickNTP"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [QuickNTP](https://github.com/ppkantorski/QuickNTP)
 Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultrahand overlay.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -189,7 +189,7 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Alchemist"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Alchemist](https://github.com/ppkantorski/Alchemist)
+### <a href="https://github.com/ppkantorski/Alchemist"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Alchemist](https://github.com/ppkantorski/Alchemist)
 An Ultrahand package for managing, converting, and installing mods on the Nintendo Switch — with support for exeFS patches, content mods, and pchtxt conversion.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -202,7 +202,7 @@ An Ultrahand package for managing, converting, and installing mods on the Ninten
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Memory-Kit"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Memory-Kit](https://github.com/ppkantorski/Memory-Kit)
+### <a href="https://github.com/ppkantorski/Memory-Kit"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Memory-Kit](https://github.com/ppkantorski/Memory-Kit)
 An Ultrahand package for manipulating various memory settings for Atmosphere and Ultrahand on the Nintendo Switch.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
