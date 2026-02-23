@@ -1,6 +1,6 @@
 <div align="center">
 
-# <a href="https://github.com/ppkantorski?tab=repositories"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/ppkantorski.svg" width="40" height="40"></a>  ppkantorski
+# <a href="https://github.com/ppkantorski?tab=repositories"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/ppkantorski.svg" width="40" height="40"></a> ppkantorski
 
 <samp>💭 If it isn't broken, make it better.</samp>
 
