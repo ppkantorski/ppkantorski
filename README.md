@@ -194,6 +194,7 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 An Ultrahand package for managing, converting, and installing mods on the Nintendo Switch — with support for exeFS patches, content mods, and pchtxt conversion.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![latest](https://img.shields.io/github/v/release/ppkantorski/Alchemist?label=latest&color=blue)](https://github.com/ppkantorski/Alchemist/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/Alchemist/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Alchemist)
@@ -207,6 +208,7 @@ An Ultrahand package for managing, converting, and installing mods on the Ninten
 An Ultrahand package for manipulating various memory settings for Atmosphere and Ultrahand on the Nintendo Switch.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![latest](https://img.shields.io/github/v/release/ppkantorski/Memory-Kit?label=latest&color=blue)](https://github.com/ppkantorski/Memory-Kit/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/ppkantorski/Memory-Kit/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Memory-Kit)
