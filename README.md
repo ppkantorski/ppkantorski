@@ -223,6 +223,6 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 ![Profile Views](https://komarev.com/ghpvc/?username=ppkantorski&color=58a6ff&label=Profile+Views)
 [![ko-fi](https://img.shields.io/badge/Support_me_on_Ko--fi!-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/ppkantorski)
 
-<sub>Building tools for the Nintendo Switch homebrew community ¯\_(ツ)_/¯</sub>
+<sub>Building tools for the Nintendo Switch homebrew community ¯\\_(ツ)_/¯</sub>
 
 </div>
