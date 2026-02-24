@@ -74,7 +74,6 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 A comprehensive collection of known Ultrahand Overlay packages — the central hub for discovering and sharing community-built packages for the ecosystem.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
-[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Packages-issues.json)](https://github.com/ppkantorski/Ultrahand-Packages/issues)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Packages-stars.json&style=social)](https://github.com/ppkantorski/Ultrahand-Packages/stargazers)
 <br/><br/>
