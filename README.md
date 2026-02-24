@@ -35,8 +35,8 @@ The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Ultrahand-Overlay&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-issues.json)](https://github.com/ppkantorski/Ultrahand-Overlay/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Ultrahand-Overlay&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Ultrahand-Overlay/stargazers)
 <br/><br/>
 </td>
@@ -48,8 +48,8 @@ Expanded libtesla + libultra libraries for Switch overlay development. The found
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/libultrahand-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=libultrahand&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/libultrahand-issues.json)](https://github.com/ppkantorski/libultrahand/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/libultrahand-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=libultrahand&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/libultrahand-stars.json&style=social)](https://github.com/ppkantorski/libultrahand/stargazers)
 <br/><br/>
 </td>
@@ -63,8 +63,8 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=nx-ovlloader&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-issues.json)](https://github.com/ppkantorski/nx-ovlloader/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=nx-ovlloader&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-stars.json&style=social)](https://github.com/ppkantorski/nx-ovlloader/stargazers)
 <br/><br/>
 </td>
@@ -95,8 +95,8 @@ A fully playable Tetris game running as a Nintendo Switch overlay — because wh
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Tetris-Overlay&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-issues.json)](https://github.com/ppkantorski/Tetris-Overlay/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Tetris-Overlay&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Tetris-Overlay/stargazers)
 <br/><br/>
 </td>
@@ -108,8 +108,8 @@ Track system memory usage and toggle system modules on the fly — without ever 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=ovl-sysmodules&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-issues.json)](https://github.com/ppkantorski/ovl-sysmodules/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=ovl-sysmodules&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-stars.json&style=social)](https://github.com/ppkantorski/ovl-sysmodules/stargazers)
 <br/><br/>
 </td>
@@ -123,8 +123,8 @@ Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan spe
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Status-Monitor-Overlay&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-issues.json)](https://github.com/ppkantorski/Status-Monitor-Overlay/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Status-Monitor-Overlay&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Status-Monitor-Overlay/stargazers)
 <br/><br/>
 </td>
@@ -136,8 +136,8 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=FPSLocker&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-issues.json)](https://github.com/ppkantorski/FPSLocker/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=FPSLocker&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-stars.json&style=social)](https://github.com/ppkantorski/FPSLocker/stargazers)
 <br/><br/>
 </td>
@@ -151,8 +151,8 @@ Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=sys-clk&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-issues.json)](https://github.com/ppkantorski/sys-clk/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=sys-clk&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-stars.json&style=social)](https://github.com/ppkantorski/sys-clk/stargazers)
 <br/><br/>
 </td>
@@ -164,8 +164,8 @@ Color management overlay for the Nintendo Switch. Adjust color temperature, satu
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Fizeau&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-issues.json)](https://github.com/ppkantorski/Fizeau/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Fizeau&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-stars.json&style=social)](https://github.com/ppkantorski/Fizeau/stargazers)
 <br/><br/>
 </td>
@@ -179,8 +179,8 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=QuickNTP&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-issues.json)](https://github.com/ppkantorski/QuickNTP/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=QuickNTP&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-stars.json&style=social)](https://github.com/ppkantorski/QuickNTP/stargazers)
 <br/><br/>
 </td>
@@ -203,8 +203,8 @@ An Ultrahand package for managing, converting, and installing mods on the Ninten
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Alchemist&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-issues.json)](https://github.com/ppkantorski/Alchemist/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Alchemist&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-stars.json&style=social)](https://github.com/ppkantorski/Alchemist/stargazers)
 <br/><br/>
 </td>
@@ -216,8 +216,8 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
 [![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Memory-Kit&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-issues.json)](https://github.com/ppkantorski/Memory-Kit/issues)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Memory-Kit&per_page=1000)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-stars.json&style=social)](https://github.com/ppkantorski/Memory-Kit/stargazers)
 <br/><br/>
 </td>
