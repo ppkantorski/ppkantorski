@@ -104,7 +104,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay — because wh
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-latest.json&label=)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest/download/ovlSysmodules.ovl)</sub>
-Toggle system modules on the fly — without ever rebooting your Switch.
+Track system memory usage and toggle system modules on the fly — without ever rebooting your Switch.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
