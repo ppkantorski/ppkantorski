@@ -24,7 +24,6 @@ REPOS = [
     {'name': 'Memory-Kit',             'has_releases': True},
 ]
 
-
 def github_api(endpoint):
     url = f'https://api.github.com{endpoint}'
     req = Request(url)
@@ -38,6 +37,20 @@ def github_api(endpoint):
         print(f'  API error for {endpoint}: {e}')
         return None
 
+def github_api_all_pages(endpoint):
+    """Fetch all pages of a paginated GitHub API endpoint."""
+    results = []
+    page = 1
+    while True:
+        sep = '&' if '?' in endpoint else '?'
+        data = github_api(f'{endpoint}{sep}per_page=100&page={page}')
+        if not data:
+            break
+        results.extend(data)
+        if len(data) < 100:
+            break
+        page += 1
+    return results
 
 def format_downloads(n):
     if n >= 1_000_000:
@@ -45,7 +58,6 @@ def format_downloads(n):
     elif n >= 1_000:
         return f'{n / 1_000:.1f}k'
     return str(n)
-
 
 def write_badge(repo, badge_type, label, message, color):
     """Write a shields.io endpoint-compatible JSON file."""
@@ -59,7 +71,6 @@ def write_badge(repo, badge_type, label, message, color):
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
     print(f'  Wrote {path}  →  {label}: {message}')
-
 
 def main():
     os.makedirs(BADGES_DIR, exist_ok=True)
@@ -81,8 +92,8 @@ def main():
                 tag = latest.get('tag_name', 'unknown')
                 write_badge(repo, 'latest', 'latest', tag, '0075ca')
 
-            # total downloads
-            releases = github_api(f'/repos/{OWNER}/{repo}/releases')
+            # total downloads across ALL releases and ALL pages
+            releases = github_api_all_pages(f'/repos/{OWNER}/{repo}/releases')
             if releases:
                 total = sum(
                     asset['download_count']
@@ -90,9 +101,9 @@ def main():
                     for asset in release.get('assets', [])
                 )
                 write_badge(repo, 'downloads', 'downloads', format_downloads(total), '6f42c1')
+                print(f'  Total releases fetched: {len(releases)}')
 
     print('\nDone.')
-
 
 if __name__ == '__main__':
     main()
