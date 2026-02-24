@@ -29,7 +29,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Ultrahand-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-latest.json&label=)](https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest)</sub>
+### <a href="https://github.com/ppkantorski/Ultrahand-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-latest.json&label=)](https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest/download/sdout.zip)</sub>
 The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem with its own scripting language for custom package-based system management.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
