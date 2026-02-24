@@ -1,7 +1,7 @@
 [![banner](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/banner.png)](https://github.com/ppkantorski)
 <div align="center">
 
-# <a href="https://github.com/ppkantorski?tab=repositories"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/ppkantorski.svg" width="40" height="40"></a> ppkantorski
+# <sub><a href="https://github.com/ppkantorski?tab=repositories"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/ppkantorski.svg" width="50" height="50"></a></sub> ppkantorski
 
 <samp>💭 If it isn't broken, make it better.</samp>
 
