@@ -153,6 +153,20 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 <tr>
 <td width="50%" valign="top">
 
+### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk)
+Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis — rebuilt on libultrahand with EOS support.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![latest](https://img.shields.io/github/v/release/ppkantorski/sys-clk?label=latest&color=blue)](https://github.com/ppkantorski/sys-clk/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/ppkantorski/sys-clk/total?color=6f42c1)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=sys-clk)
+[![issues](https://img.shields.io/github/issues/ppkantorski/sys-clk?color=222222)](https://github.com/ppkantorski/sys-clk/issues)
+[![stars](https://img.shields.io/github/stars/ppkantorski/sys-clk)](https://github.com/ppkantorski/sys-clk/stargazers)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
 ### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau)
 Color management overlay for the Nintendo Switch. Adjust color temperature, saturation, hue, gamma, and contrast — with scheduled dusk/dawn transitions.
 
@@ -165,6 +179,9 @@ Color management overlay for the Nintendo Switch. Adjust color temperature, satu
 [![stars](https://img.shields.io/github/stars/ppkantorski/Fizeau)](https://github.com/ppkantorski/Fizeau/stargazers)
 <br/><br/>
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/QuickNTP"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [QuickNTP](https://github.com/ppkantorski/QuickNTP)
