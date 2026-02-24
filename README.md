@@ -153,7 +153,7 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk)
+### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk)
 Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis — rebuilt on libultrahand with EOS support.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
