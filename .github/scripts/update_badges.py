@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import re
 import os
 import json
 from urllib.request import urlopen, Request
@@ -7,7 +6,7 @@ from urllib.error import URLError
 
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 OWNER = 'ppkantorski'
-README_PATH = 'README.md'
+BADGES_DIR = '.github/badges'
 
 REPOS = [
     {'name': 'Ultrahand-Overlay',     'has_releases': True},
@@ -40,17 +39,6 @@ def github_api(endpoint):
         return None
 
 
-def shields_escape(text):
-    """Escape text for shields.io static badge URL segment."""
-    text = str(text)
-    text = text.replace('-', '--')  # literal dash needs doubling
-    text = text.replace('_', '__')  # literal underscore needs doubling
-    text = text.replace(' ', '_')   # space → underscore
-    # URL-encode + and other special chars
-    text = text.replace('+', '%2B')
-    return text
-
-
 def format_downloads(n):
     if n >= 1_000_000:
         return f'{n / 1_000_000:.1f}M'
@@ -59,92 +47,51 @@ def format_downloads(n):
     return str(n)
 
 
-def get_latest_tag(repo):
-    data = github_api(f'/repos/{OWNER}/{repo}/releases/latest')
-    if not data:
-        return None
-    return data.get('tag_name')
-
-
-def get_total_downloads(repo):
-    releases = github_api(f'/repos/{OWNER}/{repo}/releases')
-    if not releases:
-        return 0
-    return sum(
-        asset['download_count']
-        for release in releases
-        for asset in release.get('assets', [])
-    )
-
-
-def get_open_issues(repo):
-    data = github_api(f'/repos/{OWNER}/{repo}')
-    if not data:
-        return None
-    return data.get('open_issues_count', 0)
-
-
-def replace_badge(content, alt, label, new_value, color, link):
-    """Replace a static shields.io badge value by alt text + link URL."""
-    pattern = (
-        r'(!\[' + re.escape(alt) + r'\]'
-        r'\(https://img\.shields\.io/badge/' + re.escape(label) + r'-)'
-        r'[^-][^)]*?'
-        r'(-' + re.escape(color) + r'\))'
-        r'(\(' + re.escape(link) + r'\))'
-    )
-    replacement = r'\g<1>' + shields_escape(new_value) + r'\g<2>\g<3>'
-    new_content, count = re.subn(pattern, replacement, content)
-    if count == 0:
-        print(f'  WARNING: no match for [{alt}] link={link}')
-    else:
-        print(f'  Updated [{alt}] → {new_value}')
-    return new_content
+def write_badge(repo, badge_type, label, message, color):
+    """Write a shields.io endpoint-compatible JSON file."""
+    path = os.path.join(BADGES_DIR, f'{repo}-{badge_type}.json')
+    data = {
+        'schemaVersion': 1,
+        'label': label,
+        'message': message,
+        'color': color
+    }
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
+    print(f'  Wrote {path}  →  {label}: {message}')
 
 
 def main():
-    with open(README_PATH, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    original = content
+    os.makedirs(BADGES_DIR, exist_ok=True)
 
     for repo_config in REPOS:
         repo = repo_config['name']
-        print(f'\nProcessing {repo}...')
+        print(f'\n{repo}')
 
         # issues
-        issues = get_open_issues(repo)
-        if issues is not None:
-            content = replace_badge(
-                content, 'issues', 'issues',
-                f'{issues} open', '222222',
-                f'https://github.com/{OWNER}/{repo}/issues'
-            )
+        repo_info = github_api(f'/repos/{OWNER}/{repo}')
+        if repo_info:
+            issues = repo_info.get('open_issues_count', 0)
+            write_badge(repo, 'issues', 'issues', f'{issues} open', '222222')
 
         if repo_config['has_releases']:
-            # latest release tag
-            tag = get_latest_tag(repo)
-            if tag:
-                content = replace_badge(
-                    content, 'latest', 'latest',
-                    tag, 'blue',
-                    f'https://github.com/{OWNER}/{repo}/releases/latest'
-                )
+            # latest release
+            latest = github_api(f'/repos/{OWNER}/{repo}/releases/latest')
+            if latest:
+                tag = latest.get('tag_name', 'unknown')
+                write_badge(repo, 'latest', 'latest', tag, '0075ca')
 
             # total downloads
-            downloads = get_total_downloads(repo)
-            content = replace_badge(
-                content, 'downloads', 'downloads',
-                format_downloads(downloads), '6f42c1',
-                f'https://somsubhra.github.io/github-release-stats/?username={OWNER}&repository={repo}'
-            )
+            releases = github_api(f'/repos/{OWNER}/{repo}/releases')
+            if releases:
+                total = sum(
+                    asset['download_count']
+                    for release in releases
+                    for asset in release.get('assets', [])
+                )
+                write_badge(repo, 'downloads', 'downloads', format_downloads(total), '6f42c1')
 
-    if content != original:
-        with open(README_PATH, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print('\nREADME.md updated successfully.')
-    else:
-        print('\nNo changes needed.')
+    print('\nDone.')
 
 
 if __name__ == '__main__':
