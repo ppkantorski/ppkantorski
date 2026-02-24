@@ -55,10 +55,10 @@ def github_api_all_pages(endpoint):
 def format_downloads(n):
     if n >= 1_000_000:
         v = n / 1_000_000
-        return f'{v:.0f}M' if v == int(v) else f'{v:.1f}M'
+        return f'{v:.0f}M' if v >= 100 else f'{v:.1f}M'
     elif n >= 1_000:
         v = n / 1_000
-        return f'{v:.0f}k' if v == int(v) else f'{v:.1f}k'
+        return f'{v:.0f}k' if v >= 100 else f'{v:.1f}k'
     return str(n)
 
 def write_badge(repo, badge_type, label, message, color):
