@@ -72,6 +72,20 @@ def write_badge(repo, badge_type, label, message, color):
         json.dump(data, f, indent=2)
     print(f'  Wrote {path}  →  {label}: {message}')
 
+def write_star_badge(repo, stars):
+    """Write a shields.io endpoint-compatible JSON file with GitHub logo for social-style stars."""
+    path = os.path.join(BADGES_DIR, f'{repo}-stars.json')
+    data = {
+        'schemaVersion': 1,
+        'label': 'Stars',
+        'message': str(stars),
+        'color': 'lightgrey',
+        'namedLogo': 'github'
+    }
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
+    print(f'  Wrote {path}  →  Stars: {stars}')
+
 def main():
     os.makedirs(BADGES_DIR, exist_ok=True)
 
@@ -79,11 +93,13 @@ def main():
         repo = repo_config['name']
         print(f'\n{repo}')
 
-        # issues
+        # issues + stars
         repo_info = github_api(f'/repos/{OWNER}/{repo}')
         if repo_info:
             issues = repo_info.get('open_issues_count', 0)
+            stars = repo_info.get('stargazers_count', 0)
             write_badge(repo, 'issues', 'issues', f'{issues} open', '222222')
+            write_star_badge(repo, stars)
 
         if repo_config['has_releases']:
             # latest release
