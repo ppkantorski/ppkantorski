@@ -30,7 +30,7 @@
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Ultrahand-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Overlay-latest.json&label=)](https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest/download/sdout.zip)</sub>
-The fully craft-able Nintendo Switch overlay executor — a versatile ecosystem with its own scripting language for custom package-based system management.
+The fully craft-able Nintendo Switch overlay executor; a versatile ecosystem with its own scripting language for custom package-based system management.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
@@ -71,7 +71,7 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Ultrahand-Packages"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Ultrahand-Packages](https://github.com/ppkantorski/Ultrahand-Packages)
-A comprehensive collection of known Ultrahand Overlay packages — the central hub for discovering and sharing community-built packages for the ecosystem.
+A comprehensive collection of known Ultrahand Overlay packages; the central hub for discovering and sharing community-built packages for the ecosystem.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Ultrahand-Packages-issues.json)](https://github.com/ppkantorski/Ultrahand-Packages/issues)
@@ -90,7 +90,7 @@ A comprehensive collection of known Ultrahand Overlay packages — the central h
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Tetris-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-latest.json&label=)](https://github.com/ppkantorski/Tetris-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Tetris-Overlay/releases/latest/download/tetris.ovl)</sub>
-A fully playable Tetris game running as a Nintendo Switch overlay — because why not play Tetris on top of your game?
+A fully playable Tetris game running as a Nintendo Switch overlay (because why not play Tetris on top of your game?)
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
@@ -103,7 +103,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay — because wh
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-latest.json&label=)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest/download/ovlSysmodules.ovl)</sub>
-Track system memory usage and toggle system modules on the fly — without ever rebooting your Switch.
+Track system memory usage and toggle system modules on the fly.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
@@ -118,7 +118,7 @@ Track system memory usage and toggle system modules on the fly — without ever 
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Status-Monitor-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
-Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more — all on-device.
+Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more (all on-device).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
@@ -146,7 +146,7 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-latest.json&label=)](https://github.com/ppkantorski/sys-clk/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-clk/releases/latest/download/sys-clk-overlay.ovl)</sub>
-Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis — rebuilt on libultrahand with EOS support.
+Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis (rebuilt on libultrahand with EOS support).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
@@ -159,7 +159,7 @@ Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-latest.json&label=)](https://github.com/ppkantorski/Fizeau/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Fizeau/releases/latest/download/Fizeau.ovl)</sub>
-Color management overlay for the Nintendo Switch. Adjust color temperature, saturation, hue, gamma, and contrast — with scheduled dusk/dawn transitions.
+Color management overlay for the Nintendo Switch. Real-time adjust color temperature, saturation, hue, gamma, and contrast with scheduled dusk/dawn transitions.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
@@ -198,7 +198,7 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Alchemist"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Alchemist](https://github.com/ppkantorski/Alchemist) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-latest.json&label=)](https://github.com/ppkantorski/Alchemist/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Alchemist/releases/latest/download/Alchemist.zip)</sub>
-An Ultrahand package for managing, converting, and installing mods on the Nintendo Switch — with support for exeFS patches, content mods, and pchtxt conversion.
+An Ultrahand package for managing, converting, and installing mods on the Nintendo Switch with support for exeFS patches, content mods, and pchtxt conversion.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
