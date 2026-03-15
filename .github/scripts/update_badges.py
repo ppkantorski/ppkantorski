@@ -10,7 +10,7 @@ OWNER = 'ppkantorski'
 BADGES_DIR = '.github/badges'
 
 REPOS = [
-    {'name': 'Ultrahand-Overlay',     'has_releases': True},
+    {'name': 'Ultrahand-Overlay',      'has_releases': True},
     {'name': 'libultrahand',           'has_releases': True},
     {'name': 'nx-ovlloader',           'has_releases': True},
     {'name': 'Ultrahand-Packages',     'has_releases': False},
@@ -21,6 +21,7 @@ REPOS = [
     {'name': 'sys-clk',                'has_releases': True},
     {'name': 'Fizeau',                 'has_releases': True},
     {'name': 'QuickNTP',               'has_releases': True},
+    {'name': 'NX-FanControl',          'has_releases': True},
     {'name': 'Alchemist',              'has_releases': True},
     {'name': 'Memory-Kit',             'has_releases': True},
 ]
