@@ -185,6 +185,17 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 <br/><br/>
 </td>
 <td width="50%" valign="top">
+
+### <a href="https://github.com/ppkantorski/NX-FanControl"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-latest.json&label=)](https://github.com/ppkantorski/NX-FanControl/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/NX-FanControl/releases/latest/download/NX-FanControl.ovl)</sub>
+Control the fan curve of Nintendo Switch; rebuilt with libultrahand.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=NX-FanControl&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-issues.json)](https://github.com/ppkantorski/NX-FanControl/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-stars.json&style=social)](https://github.com/ppkantorski/NX-FanControl/stargazers)
+<br/><br/>
 </td>
 </tr>
 </table>
