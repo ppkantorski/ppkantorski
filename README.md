@@ -89,6 +89,19 @@ A comprehensive collection of known Ultrahand Overlay packages; the central hub 
 <tr>
 <td width="50%" valign="top">
 
+### <a href="https://github.com/ppkantorski/UltraGB-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [UltraGB-Overlay](https://github.com/ppkantorski/UltraGB-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/UltraGB-Overlay-latest.json&label=)](https://github.com/ppkantorski/UltraGB-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/UltraGB-Overlay/releases/latest/download/UltraGB-Overlay.ovl)</sub>
+Game Boy / GBC emulation overlay for the Nintendo Switch; fully embedded overlay with customizable screen placement and controls.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/UltraGB-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=UltraGB-Overlay&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/UltraGB-Overlay-issues.json)](https://github.com/ppkantorski/UltraGB-Overlay/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/UltraGB-Overlay-stars.json&style=social)](https://github.com/ppkantorski/UltraGB-Overlay/stargazers)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
 ### <a href="https://github.com/ppkantorski/Tetris-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-latest.json&label=)](https://github.com/ppkantorski/Tetris-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Tetris-Overlay/releases/latest/download/tetris.ovl)</sub>
 A fully playable Tetris game running as a Nintendo Switch overlay (because why not play Tetris on top of your game?)
 
@@ -100,6 +113,8 @@ A fully playable Tetris game running as a Nintendo Switch overlay (because why n
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Tetris-Overlay/stargazers)
 <br/><br/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-latest.json&label=)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest/download/ovlSysmodules.ovl)</sub>
@@ -113,8 +128,6 @@ Track system memory usage and toggle system modules on the fly.
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-stars.json&style=social)](https://github.com/ppkantorski/ovl-sysmodules/stargazers)
 <br/><br/>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Status-Monitor-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
@@ -128,6 +141,8 @@ Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan spe
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Status-Monitor-Overlay/stargazers)
 <br/><br/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/FPSLocker"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [FPSLocker](https://github.com/ppkantorski/FPSLocker) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-latest.json&label=)](https://github.com/ppkantorski/FPSLocker/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/FPSLocker/releases/latest/download/FPSLocker.ovl)</sub>
@@ -141,8 +156,6 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-stars.json&style=social)](https://github.com/ppkantorski/FPSLocker/stargazers)
 <br/><br/>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-latest.json&label=)](https://github.com/ppkantorski/sys-clk/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-clk/releases/latest/download/sys-clk-overlay.ovl)</sub>
@@ -156,6 +169,8 @@ Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-stars.json&style=social)](https://github.com/ppkantorski/sys-clk/stargazers)
 <br/><br/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-latest.json&label=)](https://github.com/ppkantorski/Fizeau/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Fizeau/releases/latest/download/Fizeau.ovl)</sub>
@@ -169,8 +184,6 @@ Color management overlay for the Nintendo Switch. Real-time adjust color tempera
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-stars.json&style=social)](https://github.com/ppkantorski/Fizeau/stargazers)
 <br/><br/>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/QuickNTP"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [QuickNTP](https://github.com/ppkantorski/QuickNTP) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-latest.json&label=)](https://github.com/ppkantorski/QuickNTP/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/QuickNTP/releases/latest/download/QuickNTP.ovl)</sub>
@@ -184,6 +197,8 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-stars.json&style=social)](https://github.com/ppkantorski/QuickNTP/stargazers)
 <br/><br/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/NX-FanControl"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-latest.json&label=)](https://github.com/ppkantorski/NX-FanControl/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/NX-FanControl/releases/latest/download/NX-FanControl.ovl)</sub>
@@ -197,7 +212,6 @@ Control the fan curve of Nintendo Switch; rebuilt with libultrahand.
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-stars.json&style=social)](https://github.com/ppkantorski/NX-FanControl/stargazers)
 <br/><br/>
 </td>
-</tr>
 </table>
 
 ---
