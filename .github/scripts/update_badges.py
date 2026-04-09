@@ -14,6 +14,7 @@ REPOS = [
     {'name': 'libultrahand',           'has_releases': True},
     {'name': 'nx-ovlloader',           'has_releases': True},
     {'name': 'Ultrahand-Packages',     'has_releases': False},
+    {'name': 'UltraGB-Overlay',        'has_releases': True},
     {'name': 'Tetris-Overlay',         'has_releases': True},
     {'name': 'ovl-sysmodules',         'has_releases': True},
     {'name': 'Status-Monitor-Overlay', 'has_releases': True},
