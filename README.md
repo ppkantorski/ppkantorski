@@ -118,7 +118,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay (because why n
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ppkantorski/sys-tune"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-tune](https://github.com/ppkantorski/sys-tune) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-tune-latest.json&label=)](https://github.com/ppkantorski/sys-tune/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-tune/releases/latest/download/sdout.zip)</sub>
-Background audio player for the Nintendo Switch (libultrahand rebuild).
+Background audio player for the Nintendo Switch (libultrahand rebuild w/ improved design).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
