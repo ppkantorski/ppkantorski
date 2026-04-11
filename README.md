@@ -117,7 +117,7 @@ A fully playable Tetris game running as a Nintendo Switch overlay (because why n
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/sys-tune"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-tune](https://github.com/ppkantorski/sys-tune) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-tune-latest.json&label=)](https://github.com/ppkantorski/sys-tune/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-tune/releases/latest/download/sdout.zip)</sub>
+### <a href="https://github.com/ppkantorski/sys-tune"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-tune](https://github.com/ppkantorski/sys-tune) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-tune-latest.json&label=)](https://github.com/ppkantorski/sys-tune/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-tune/releases/latest/download/sdout.zip)</sub>
 Background audio player for the Nintendo Switch (libultrahand rebuild w/ improved design).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -130,7 +130,7 @@ Background audio player for the Nintendo Switch (libultrahand rebuild w/ improve
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-latest.json&label=)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest/download/ovlSysmodules.ovl)</sub>
+### <a href="https://github.com/ppkantorski/ovl-sysmodules"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ovl-sysmodules-latest.json&label=)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/ovl-sysmodules/releases/latest/download/ovlSysmodules.ovl)</sub>
 Track system memory usage and toggle system modules on the fly.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -145,7 +145,7 @@ Track system memory usage and toggle system modules on the fly.
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Status-Monitor-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
+### <a href="https://github.com/ppkantorski/Status-Monitor-Overlay"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
 Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more (all on-device).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -158,7 +158,7 @@ Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan spe
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/FPSLocker"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [FPSLocker](https://github.com/ppkantorski/FPSLocker) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-latest.json&label=)](https://github.com/ppkantorski/FPSLocker/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/FPSLocker/releases/latest/download/FPSLocker.ovl)</sub>
+### <a href="https://github.com/ppkantorski/FPSLocker"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [FPSLocker](https://github.com/ppkantorski/FPSLocker) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-latest.json&label=)](https://github.com/ppkantorski/FPSLocker/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/FPSLocker/releases/latest/download/FPSLocker.ovl)</sub>
 Set custom display refresh rates and FPS targets in Nintendo Switch retail games, with per-game patch configs and advanced buffering controls.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -173,7 +173,7 @@ Set custom display refresh rates and FPS targets in Nintendo Switch retail games
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-latest.json&label=)](https://github.com/ppkantorski/sys-clk/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-clk/releases/latest/download/sys-clk-overlay.ovl)</sub>
+### <a href="https://github.com/ppkantorski/sys-clk"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [sys-clk](https://github.com/ppkantorski/sys-clk) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-latest.json&label=)](https://github.com/ppkantorski/sys-clk/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-clk/releases/latest/download/sys-clk-overlay.ovl)</sub>
 Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis (rebuilt on libultrahand with EOS support).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -186,7 +186,7 @@ Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-latest.json&label=)](https://github.com/ppkantorski/Fizeau/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Fizeau/releases/latest/download/Fizeau.ovl)</sub>
+### <a href="https://github.com/ppkantorski/Fizeau"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [Fizeau](https://github.com/ppkantorski/Fizeau) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-latest.json&label=)](https://github.com/ppkantorski/Fizeau/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Fizeau/releases/latest/download/Fizeau.ovl)</sub>
 Color management overlay for the Nintendo Switch. Real-time adjust color temperature, saturation, hue, gamma, and contrast with scheduled dusk/dawn transitions.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -201,7 +201,7 @@ Color management overlay for the Nintendo Switch. Real-time adjust color tempera
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/QuickNTP"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [QuickNTP](https://github.com/ppkantorski/QuickNTP) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-latest.json&label=)](https://github.com/ppkantorski/QuickNTP/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/QuickNTP/releases/latest/download/QuickNTP.ovl)</sub>
+### <a href="https://github.com/ppkantorski/QuickNTP"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [QuickNTP](https://github.com/ppkantorski/QuickNTP) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-latest.json&label=)](https://github.com/ppkantorski/QuickNTP/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/QuickNTP/releases/latest/download/QuickNTP.ovl)</sub>
 Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultrahand overlay.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -214,7 +214,7 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/ppkantorski/NX-FanControl"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-latest.json&label=)](https://github.com/ppkantorski/NX-FanControl/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/NX-FanControl/releases/latest/download/NX-FanControl.ovl)</sub>
+### <a href="https://github.com/ppkantorski/NX-FanControl"><img src="https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg" width="14" height="14"></a> [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-latest.json&label=)](https://github.com/ppkantorski/NX-FanControl/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/NX-FanControl/releases/latest/download/NX-FanControl.ovl)</sub>
 Control the fan curve of Nintendo Switch; rebuilt with libultrahand.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
