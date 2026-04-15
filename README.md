@@ -268,7 +268,7 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 <div align="center">
 
 [![ko-fi](https://img.shields.io/badge/Support_me_on_Ko--fi!-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/ppkantorski)
-[![Sponsor](https://img.shields.io/badge/Sponsor-1a1a2e?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBmaWxsPW5vbmUiIHN0cm9rZT0iI0ZGNjlCNCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMjAuODQgNC42MWE1LjUgNS41IDAgMCAwLTcuNzggMEwxMiA1LjY3bC0xLjA2LTEuMDZhNS41IDUuNSAwIDAgMC03Ljc4IDcuNzhsMS4wNiAxLjA2TDEyIDIxLjIzbDcuNzgtNy43OGwxLjA2LTEuMDZhNS41IDUuNSAwIDAgMCAwLTcuNzh6Ii8+PC9zdmc+)](https://github.com/sponsors/ppkantorski)
+[![Sponsor](https://img.shields.io/badge/Sponsor-1a1a2e?style=flat&logo=githubsponsors&logoColor=ff69b4)](https://github.com/sponsors/ppkantorski)
 ![Profile Views](https://komarev.com/ghpvc/?username=ppkantorski&color=58a6ff&label=Profile+Views)
 
 <sub>Building tools for the Nintendo Switch homebrew community ¯\\\_(ツ)\_/¯</sub>
