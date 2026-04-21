@@ -62,7 +62,7 @@ Host process for loading Nintendo Switch overlay OVLs. The core loader service o
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C-ba1632?logo=C.svg)](https://github.com/topics/cpp)
-[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![license](https://img.shields.io/badge/license-ISC-189c11.svg)](https://github.com/ppkantorski/nx-ovlloader/blob/main/LICENSE.md)
 [![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=nx-ovlloader&per_page=1000)
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-issues.json)](https://github.com/ppkantorski/nx-ovlloader/issues)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/nx-ovlloader-stars.json&style=social)](https://github.com/ppkantorski/nx-ovlloader/stargazers)
