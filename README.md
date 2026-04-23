@@ -229,6 +229,19 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 <tr>
 <td width="50%" valign="top">
 
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/sysdvr-overlay) [sysdvr-overlay](https://github.com/ppkantorski/sysdvr-overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sysdvr-overlay-latest.json&label=)](https://github.com/ppkantorski/sysdvr-overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sysdvr-overlay/releases/latest/download/sysdvr-overlay.ovl)</sub>
+About Overlay to check and change the current mode of SysDVR. (libultrahand rebuild)
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sysdvr-overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=sysdvr-overlay&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sysdvr-overlay-issues.json)](https://github.com/ppkantorski/sysdvr-overlay/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sysdvr-overlay-stars.json&style=social)](https://github.com/ppkantorski/sysdvr-overlay/stargazers)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/NX-FanControl) [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-latest.json&label=)](https://github.com/ppkantorski/NX-FanControl/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/NX-FanControl/releases/latest/download/NX-FanControl.ovl)</sub>
 Control the fan curve of Nintendo Switch; rebuilt with libultrahand.
 
