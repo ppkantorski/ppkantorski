@@ -24,6 +24,7 @@ REPOS = [
     {'name': 'ReverseNX-RT',           'has_releases': True},
     {'name': 'Fizeau',                 'has_releases': True},
     {'name': 'QuickNTP',               'has_releases': True},
+    {'name': 'sysdvr-overlay',         'has_releases': True},
     {'name': 'NX-FanControl',          'has_releases': True},
     {'name': 'Alchemist',              'has_releases': True},
     {'name': 'Memory-Kit',             'has_releases': True},
