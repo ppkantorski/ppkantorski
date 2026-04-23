@@ -21,6 +21,7 @@ REPOS = [
     {'name': 'sys-clk',                'has_releases': True},
     {'name': 'Status-Monitor-Overlay', 'has_releases': True},
     {'name': 'FPSLocker',              'has_releases': True},
+    {'name': 'ReverseNX-RT',           'has_releases': True},
     {'name': 'Fizeau',                 'has_releases': True},
     {'name': 'QuickNTP',               'has_releases': True},
     {'name': 'NX-FanControl',          'has_releases': True},
