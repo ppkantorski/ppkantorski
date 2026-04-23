@@ -145,34 +145,6 @@ Track system memory usage and toggle system modules on the fly.
 <tr>
 <td width="50%" valign="top">
 
-### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Status-Monitor-Overlay) [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
-Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more (all on-device).
-
-[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
-[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
-[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Status-Monitor-Overlay&per_page=1000)
-[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-issues.json)](https://github.com/ppkantorski/Status-Monitor-Overlay/issues)
-[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Status-Monitor-Overlay/stargazers)
-<br/><br/>
-</td>
-<td width="50%" valign="top">
-
-### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/FPSLocker) [FPSLocker](https://github.com/ppkantorski/FPSLocker) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-latest.json&label=)](https://github.com/ppkantorski/FPSLocker/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/FPSLocker/releases/latest/download/FPSLocker.ovl)</sub>
-Set custom display refresh rates and FPS targets in Nintendo Switch retail games, with per-game patch configs and advanced buffering controls.
-
-[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
-[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
-[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=FPSLocker&per_page=1000)
-[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-issues.json)](https://github.com/ppkantorski/FPSLocker/issues)
-[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-stars.json&style=social)](https://github.com/ppkantorski/FPSLocker/stargazers)
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/sys-clk) [sys-clk](https://github.com/ppkantorski/sys-clk) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-latest.json&label=)](https://github.com/ppkantorski/sys-clk/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-clk/releases/latest/download/sys-clk-overlay.ovl)</sub>
 Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis (rebuilt on libultrahand with EOS support).
 
@@ -186,6 +158,49 @@ Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game
 </td>
 <td width="50%" valign="top">
 
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Status-Monitor-Overlay) [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
+Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more (all on-device).
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=Status-Monitor-Overlay&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-issues.json)](https://github.com/ppkantorski/Status-Monitor-Overlay/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-stars.json&style=social)](https://github.com/ppkantorski/Status-Monitor-Overlay/stargazers)
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/FPSLocker) [FPSLocker](https://github.com/ppkantorski/FPSLocker) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-latest.json&label=)](https://github.com/ppkantorski/FPSLocker/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/FPSLocker/releases/latest/download/FPSLocker.ovl)</sub>
+Set custom display refresh rates and FPS targets in Nintendo Switch retail games, with per-game patch configs and advanced buffering controls.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=FPSLocker&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-issues.json)](https://github.com/ppkantorski/FPSLocker/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/FPSLocker-stars.json&style=social)](https://github.com/ppkantorski/FPSLocker/stargazers)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/ReverseNX-RT) [ReverseNX-RT](https://github.com/ppkantorski/ReverseNX-RT) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ReverseNX-RT-latest.json&label=)](https://github.com/ppkantorski/ReverseNX-RT/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/ReverseNX-RT/releases/latest/download/ReverseNX-RT.ovl)</sub>
+Alternative version of ReverseNX that can switch between handheld and docked mode in Real Time. (libultrahand rebuild)
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ReverseNX-RT-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=ReverseNX-RT&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ReverseNX-RT-issues.json)](https://github.com/ppkantorski/ReverseNX-RT/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/ReverseNX-RT-stars.json&style=social)](https://github.com/ppkantorski/ReverseNX-RT/stargazers)
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Fizeau) [Fizeau](https://github.com/ppkantorski/Fizeau) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-latest.json&label=)](https://github.com/ppkantorski/Fizeau/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Fizeau/releases/latest/download/Fizeau.ovl)</sub>
 Color management overlay for the Nintendo Switch. Real-time adjust color temperature, saturation, hue, gamma, and contrast with scheduled dusk/dawn transitions.
 
@@ -197,8 +212,6 @@ Color management overlay for the Nintendo Switch. Real-time adjust color tempera
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Fizeau-stars.json&style=social)](https://github.com/ppkantorski/Fizeau/stargazers)
 <br/><br/>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/QuickNTP) [QuickNTP](https://github.com/ppkantorski/QuickNTP) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-latest.json&label=)](https://github.com/ppkantorski/QuickNTP/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/QuickNTP/releases/latest/download/QuickNTP.ovl)</sub>
@@ -212,6 +225,8 @@ Instantly sync your Nintendo Switch system clock to NTP time servers via an Ultr
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/QuickNTP-stars.json&style=social)](https://github.com/ppkantorski/QuickNTP/stargazers)
 <br/><br/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/NX-FanControl) [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/NX-FanControl-latest.json&label=)](https://github.com/ppkantorski/NX-FanControl/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/NX-FanControl/releases/latest/download/NX-FanControl.ovl)</sub>
