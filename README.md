@@ -271,6 +271,4 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 [![Sponsor](https://img.shields.io/badge/Sponsor-1a1a2e?style=flat&logo=githubsponsors&logoColor=ff69b4)](https://github.com/sponsors/ppkantorski)
 ![Profile Views](https://komarev.com/ghpvc/?username=ppkantorski&color=58a6ff&label=Profile+Views)
 
-<sub>Building tools for the Nintendo Switch homebrew community ¯\\\_(ツ)\_/¯</sub>
-
 </div>
