@@ -158,7 +158,7 @@ Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game
 </td>
 <td width="50%" valign="top">
 
-### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Status-Monitor-Overlay) [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Status-Monitor-Overlay) [Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Status-Monitor-Overlay-latest.json&label=)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Status-Monitor-Overlay/releases/latest/download/Status-Monitor-Overlay.ovl)</sub>
 Real-time hardware monitoring overlay. Tracks CPU/GPU/RAM, temperatures, fan speed, frequencies, battery stats, charger info, and more (all on-device).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -264,6 +264,19 @@ Control the fan curve of Nintendo Switch; rebuilt with libultrahand.
 <tr>
 <td width="50%" valign="top">
 
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/HOC-Toolkit) [HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/HOC-Toolkit-latest.json&label=)](https://github.com/ppkantorski/HOC-Toolkit/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/HOC-Toolkit/releases/latest/download/HOC-Toolkit.zip)</sub>
+An Ultrahand package for advanced overclocking configuration on the Nintendo Switch, built specifically for Horizon OC. It provides a full in-overlay GUI for tuning RAM, CPU, GPU, and SoC parameters directly against the hoc.kip kernel patch.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
+[![license](https://img.shields.io/badge/license-GPLv2-189c11.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/HOC-Toolkit-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=HOC-Toolkit&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/HOC-Toolkit-issues.json)](https://github.com/ppkantorski/HOC-Toolkit/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/HOC-Toolkit-stars.json&style=social)](https://github.com/ppkantorski/HOC-Toolkit/stargazers)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Alchemist) [Alchemist](https://github.com/ppkantorski/Alchemist) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-latest.json&label=)](https://github.com/ppkantorski/Alchemist/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Alchemist/releases/latest/download/Alchemist.zip)</sub>
 An Ultrahand package for managing, converting, and installing mods on the Nintendo Switch with support for exeFS patches, content mods, and pchtxt conversion.
 
@@ -275,6 +288,8 @@ An Ultrahand package for managing, converting, and installing mods on the Ninten
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Alchemist-stars.json&style=social)](https://github.com/ppkantorski/Alchemist/stargazers)
 <br/><br/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Memory-Kit) [Memory-Kit](https://github.com/ppkantorski/Memory-Kit) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-latest.json&label=)](https://github.com/ppkantorski/Memory-Kit/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Memory-Kit/releases/latest/download/Memory.Kit.zip)</sub>
@@ -287,6 +302,9 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 [![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-issues.json)](https://github.com/ppkantorski/Memory-Kit/issues)
 [![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Memory-Kit-stars.json&style=social)](https://github.com/ppkantorski/Memory-Kit/stargazers)
 <br/><br/>
+</td>
+<td width="50%" valign="top">
+
 </td>
 </tr>
 </table>
