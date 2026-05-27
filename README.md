@@ -265,7 +265,7 @@ Control the fan curve of Nintendo Switch; rebuilt with libultrahand.
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/HOC-Toolkit) [HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/HOC-Toolkit-latest.json&label=)](https://github.com/ppkantorski/HOC-Toolkit/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/HOC-Toolkit/releases/latest/download/HOC-Toolkit.zip)</sub>
-An Ultrahand package for advanced overclocking configuration on the Nintendo Switch, built specifically for Horizon OC. It provides a full in-overlay GUI for tuning RAM, CPU, GPU, and SoC parameters directly against the hoc.kip kernel patch.
+An Ultrahand package for advanced overclocking configuration on the Nintendo Switch, built specifically for Horizon OC. It provides a full interface for tuning RAM, CPU, GPU, and SoC parameters stored in the hoc.kip kernel patch directly.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-UltraScript-ba1632.svg)](https://github.com/topics/ultrahand-package)
