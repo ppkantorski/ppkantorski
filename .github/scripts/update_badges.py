@@ -26,6 +26,7 @@ REPOS = [
     {'name': 'QuickNTP',               'has_releases': True},
     {'name': 'sysdvr-overlay',         'has_releases': True},
     {'name': 'NX-FanControl',          'has_releases': True},
+    {'name': 'HOC-Toolkit',            'has_releases': True},
     {'name': 'Alchemist',              'has_releases': True},
     {'name': 'Memory-Kit',             'has_releases': True},
 ]
