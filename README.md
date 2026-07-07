@@ -146,7 +146,7 @@ Track system memory usage and toggle system modules on the fly.
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/sys-clk) [sys-clk](https://github.com/ppkantorski/sys-clk) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/sys-clk-latest.json&label=)](https://github.com/ppkantorski/sys-clk/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/sys-clk/releases/latest/download/sys-clk-overlay.ovl)</sub>
-Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis (rebuilt on libultrahand with EOS support).
+Overclock and underclock your Nintendo Switch CPU, GPU, and memory on a per-game and per-docked-state basis (rebuilt on libultrahand with HOC and EOS support).
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
