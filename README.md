@@ -103,7 +103,7 @@ Game Boy / GBC emulation overlay for the Nintendo Switch; fully embedded overlay
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/Tetris-Overlay) [Tetris-Overlay](https://github.com/ppkantorski/Tetris-Overlay) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/Tetris-Overlay-latest.json&label=)](https://github.com/ppkantorski/Tetris-Overlay/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/Tetris-Overlay/releases/latest/download/tetris.ovl)</sub>
-A fully playable Tetris game running as a Nintendo Switch overlay (because why not play Tetris on top of your game?)
+A fully playable Tetris game running as a Nintendo Switch overlay ¯\_(ツ)_/¯
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-C++-ba1632?logo=C++.svg)](https://github.com/topics/cpp)
