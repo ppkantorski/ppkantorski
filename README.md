@@ -318,7 +318,7 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 <td width="50%" valign="top">
 
 ### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/7th-Heaven-NX) [7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/7th-Heaven-NX-latest.json&label=)](https://github.com/ppkantorski/7th-Heaven-NX/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/7th-Heaven-NX/releases/latest)</sub>
-Install 7th Heaven / FFNx mods, HD art and 60 FPS on Final Fantasy VII for Nintendo Switch, packaged as a ready-to-copy SD card build.
+Install 7th Heaven / FFNx PC mods on Final Fantasy VII for Nintendo Switch; visual, audio, gameplay and engine improvements, packaged as a ready-to-copy SD card build.
 
 [![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
 [![language](https://img.shields.io/badge/language-Python-ba1632?logo=Python.svg)](https://github.com/topics/python)
