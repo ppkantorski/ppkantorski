@@ -29,6 +29,7 @@ REPOS = [
     {'name': 'HOC-Toolkit',            'has_releases': True},
     {'name': 'Alchemist',              'has_releases': True},
     {'name': 'Memory-Kit',             'has_releases': True},
+    {'name': '7th-Heaven-NX',          'has_releases': True},
 ]
 
 def github_api(endpoint):
