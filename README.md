@@ -311,6 +311,31 @@ An Ultrahand package for manipulating various memory settings for Atmosphere and
 
 ---
 
+### ☆ Modding Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [![repo-icon](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/repo-white.svg)](https://github.com/ppkantorski/7th-Heaven-NX) [7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) <sub>[![latest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/7th-Heaven-NX-latest.json&label=)](https://github.com/ppkantorski/7th-Heaven-NX/releases/latest) [![download](https://img.shields.io/badge/-⬇-2ea043?style=flat)](https://github.com/ppkantorski/7th-Heaven-NX/releases/latest)</sub>
+A mod manager for the Nintendo Switch port of Final Fantasy VII: installs 7th Heaven / FFNx mods with HD art, 60 FPS, audio and bug fixes into a ready-to-copy SD card build.
+
+[![platform](https://img.shields.io/badge/platform-Switch-898c8c?logo=C++.svg)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
+[![language](https://img.shields.io/badge/language-Python-ba1632?logo=Python.svg)](https://github.com/topics/python)
+[![license](https://img.shields.io/badge/license-GPLv3-189c11.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/7th-Heaven-NX-downloads.json)](https://somsubhra.github.io/github-release-stats/?username=ppkantorski&repository=7th-Heaven-NX&per_page=1000)
+[![issues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/7th-Heaven-NX-issues.json)](https://github.com/ppkantorski/7th-Heaven-NX/issues)
+[![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ppkantorski/ppkantorski/main/.github/badges/7th-Heaven-NX-stars.json&style=social)](https://github.com/ppkantorski/7th-Heaven-NX/stargazers)
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 [![ko-fi](https://img.shields.io/badge/Support_me_on_Ko--fi!-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/ppkantorski)
