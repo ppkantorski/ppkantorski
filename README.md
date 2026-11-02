@@ -1,4 +1,4 @@
-[![banner](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/banner.png)](https://github.com/ppkantorski)
+[![banner](https://raw.githubusercontent.com/ppkantorski/ppkantorski/refs/heads/main/.pics/banner_2.png)](https://github.com/ppkantorski)
 <div align="center">
 
 # <sub><sub>[![ppkantorski-icon](/.pics/ppkantorski.svg)](https://ko-fi.com/ppkantorski)</sub></sub> ppkantorski
