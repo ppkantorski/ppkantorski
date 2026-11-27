@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 */1 * * *'   # every 1 hours
   workflow_dispatch:          # manual trigger from GitHub UI
+    inputs:
+      force_static:
+        description: 'Render the static badges again too'
+        type: boolean
+        default: false
 
 jobs:
   update-badges:
@@ -26,6 +31,7 @@ jobs:
       - name: Run badge updater
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE_STATIC: ${{ inputs.force_static && '1' || '' }}
         run: python .github/scripts/update_badges.py
 
       - name: Commit and push if changed
