@@ -6,6 +6,8 @@ depends on img.shields.io while someone is viewing it.
   - Dynamic badges (latest / downloads / issues / stars): the values come from the GitHub API;
     the SVG is rendered by shields.io once, here, and only when its value changed (or its file
     is missing). The .json files are still written for anything that reads them.
+    "latest" is also rendered with its label (<repo>-latest-label.svg) for the repos' own
+    READMEs, which link these files by their raw.githubusercontent.com URL.
   - Static badges (STATIC_BADGES below): rendered once, and again only if the file is missing.
     To change one, edit its URL here and delete its .svg (or set FORCE_STATIC=1).
 
@@ -152,17 +154,25 @@ def update_badge(repo, badge_type, label, message, color, logo=None, style=None,
     json_bytes = (json.dumps(data, indent=2) + '\n').encode('utf-8')
     changed = write_if_changed(json_path, json_bytes)
 
-    if changed or not os.path.exists(svg_path):
-        params = {'label': label if svg_label is None else svg_label, 'message': message, 'color': color}
+    # The SVG as the profile shows it, and (when the profile hides the label) a labeled one too
+    # for the repos' own READMEs (<repo>-<type>-label.svg)
+    variants = [(svg_path, label if svg_label is None else svg_label)]
+    if svg_label is not None and svg_label != label:
+        variants.append((os.path.join(BADGES_DIR, f'{repo}-{badge_type}-label.svg'), label))
+
+    for path, shown_label in variants:
+        if not changed and os.path.exists(path):
+            continue
+        params = {'label': shown_label, 'message': message, 'color': color}
         if logo:
             params['logo'] = logo
         if style:
             params['style'] = style
         svg = fetch_svg('https://img.shields.io/static/v1?' + urlencode(params))
         if svg is not None:
-            write_if_changed(svg_path, svg)
+            write_if_changed(path, svg)
         else:
-            print(f'  Kept the old {svg_path}')
+            print(f'  Kept the old {path}')
     print(f'  {repo}-{badge_type}  →  {label}: {message}{"" if changed else "  (unchanged)"}')
 
 def update_static_badges():
